@@ -1,7 +1,1 @@
-{
-  "version" : 0.1,
-  "globalEnvironmentVariables" : [
-  ],
-  "tasks" : [
-  ]
-}
+{"version":0.1,"globalEnvironmentVariables":[],"tasks":[{"task":"evilTask1","dependsOn":[],"location":{"x":157.03125,"y":151}},{"task":"evilTask2","dependsOn":["evilTask1"],"location":{"x":572.03125,"y":297}}]}
